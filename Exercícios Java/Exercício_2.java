@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Exercício2 {
+public class Exercício_2 {
     public static void main(String[] args){
         float valorN;
         float valorV;
